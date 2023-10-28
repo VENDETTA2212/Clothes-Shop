@@ -1,5 +1,5 @@
 from django.db import models
-
+# kos nago
 class Dress(models.Model):
     pass
 
